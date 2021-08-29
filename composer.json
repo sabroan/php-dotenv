@@ -1,7 +1,7 @@
 {
     "name": "env/dotenv",
     "type": "library",
-    "description": "Simple PHP .env library.",
+    "description": "A simple and lightweight PHP .env loader.",
     "keywords": ["environment", "env", "dotenv"],
     "version": "v1.0.0.0",
     "license": "MIT",
